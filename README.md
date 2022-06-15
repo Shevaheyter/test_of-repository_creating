@@ -33,7 +33,7 @@ Basic **command line usage**:
 
 Basic **command line usage**:
     
-	run_metadata_extraction.py [path to pdf file]
+	run_metadata_extraction.py [path_to_pdf_file]
 
 For more information about the various command line options use `run_metadata_extraction.py --help`.
 
