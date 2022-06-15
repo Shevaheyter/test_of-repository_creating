@@ -32,7 +32,8 @@ Basic **command line usage**:
 ## Running Metadata Extraction Script
 
 Basic **command line usage**:
-    run_metadata_extraction.py [path to pdf file]
+    
+	run_metadata_extraction.py [path to pdf file]
 
 For more information about the various command line options use `run_metadata_extraction.py --help`.
 
